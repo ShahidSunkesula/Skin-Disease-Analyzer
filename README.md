@@ -23,3 +23,6 @@ This project is an AI-powered web application that helps users identify common s
 - Numpy, Pandas
 - Image Dataset (17 categories)
 
+---
+### Created By:
+## Shahid Sunkesula
