@@ -26,7 +26,8 @@ st.sidebar.write("### Disclaimer:")
 st.sidebar.write("This app is for educational purposes only. Always consult a healthcare professional for medical advice.")
 st.sidebar.write("### About:")
 st.sidebar.write("This app uses machine learning to predict skin diseases based on symptoms. It is trained on a dataset of skin diseases and their symptoms.")    
-
+st.sidebar.write("### Created By:")
+st.sidebar.write("Shahid Sunkesula")
 # Prepare model
 vectorizer = TfidfVectorizer()
 X = vectorizer.fit_transform(df['symptoms_clean'])
