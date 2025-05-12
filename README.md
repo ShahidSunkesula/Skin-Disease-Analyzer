@@ -4,7 +4,7 @@ This project is an AI-powered web application that helps users identify common s
 
 ## 🔗 Disease Detector
 
-👉 [Click here to try](https://skindiseasedetection-usinguserdefined.streamlit.app/)
+👉 [Click here to try](https://skin-disease-analyzer-shahidsunkesula786dcxwb.streamlit.app/)
 
 ---
 ## 🖼️ Features
